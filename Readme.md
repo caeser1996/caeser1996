@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E4&center=true&vCenter=true&width=600&lines=Building+production+AI+systems+at+scale;Leading+25%2B+engineers+in+enterprise+platforms;1M%2B+daily+transactions+%7C+99.99%25+uptime" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msumanta)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumanta9090@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caeser1996)
 
@@ -104,6 +103,6 @@ AWS, Kubernetes, Terraform at enterprise scale
 
 *Open to collaborations on AI/ML infrastructure and distributed systems projects*
 
-**[LinkedIn](https://linkedin.com/in/msumanta)** • **[Email](mailto:sumanta9090@gmail.com)** • **[GitHub](https://github.com/caeser1996)**
+**[Email](mailto:sumanta9090@gmail.com)** • **[GitHub](https://github.com/caeser1996)**
 
 </div>
